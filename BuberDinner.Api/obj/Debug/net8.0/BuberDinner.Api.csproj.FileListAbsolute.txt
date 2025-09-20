@@ -40,3 +40,15 @@ C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Applicatio
 C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Infrastructure.pdb
 C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Domain.pdb
 C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.sourcelink.json
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
