@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AD51OsyIgHo=",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wendel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

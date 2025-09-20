@@ -1,0 +1,9 @@
+POST http://localhost:5298/auth/register
+Content-Type: application/json
+
+{
+    "firstName": "Wendel",
+    "lastName": "Simões dos Santos",
+    "email": "wendelsimoes.pessoal@gmail.com",
+    "password": "wendel123"
+}
