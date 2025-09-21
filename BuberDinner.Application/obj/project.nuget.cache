@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sbROKMgr5CU=",
+  "dgSpecHash": "wcN8Hf1fEII=",
   "success": true,
   "projectFilePath": "C:\\Workspace\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Wendel\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\Wendel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
   ],
   "logs": []

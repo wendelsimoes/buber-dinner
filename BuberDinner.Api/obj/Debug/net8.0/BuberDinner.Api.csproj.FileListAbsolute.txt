@@ -52,3 +52,4 @@ C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.C
 C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\ErrorOr.dll

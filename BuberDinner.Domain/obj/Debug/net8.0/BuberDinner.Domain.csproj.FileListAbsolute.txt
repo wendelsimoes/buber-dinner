@@ -10,3 +10,4 @@ C:\Workspace\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\refint\BuberDinner.
 C:\Workspace\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.pdb
 C:\Workspace\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\ref\BuberDinner.Domain.dll
 C:\Workspace\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.sourcelink.json
+C:\Workspace\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.csproj.AssemblyReference.cache
