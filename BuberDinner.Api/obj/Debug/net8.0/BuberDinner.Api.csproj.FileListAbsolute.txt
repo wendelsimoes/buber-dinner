@@ -53,3 +53,6 @@ C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.O
 C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\ErrorOr.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Workspace\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
