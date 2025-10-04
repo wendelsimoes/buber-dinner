@@ -1,3 +1,9 @@
+using System.Reflection;
+using BuberDinner.Api.Common.Behaviors;
+using BuberDinner.Application.Authentication.Commands.Register;
+using BuberDinner.Application.Authentication.Common;
+using ErrorOr;
+using FluentValidation;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -9,6 +15,10 @@ public static class DependencyInjection
     {
         services.AddMediatR(typeof(DependencyInjection).Assembly);
 
+        services.AddScoped(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
+
+        services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
+        
         return services;
     }
 }

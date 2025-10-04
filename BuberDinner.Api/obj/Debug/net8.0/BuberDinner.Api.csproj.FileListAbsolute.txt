@@ -117,3 +117,6 @@ C:\Workspaces\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\refint\BuberDinner.Ap
 C:\Workspaces\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.pdb
 C:\Workspaces\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.genruntimeconfig.cache
 C:\Workspaces\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\ref\BuberDinner.Api.dll
+C:\Workspaces\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Workspaces\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Workspaces\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
