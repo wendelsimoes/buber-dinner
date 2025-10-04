@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+      "projectUniqueName": "C:\\Workspaces\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
       "projectName": "BuberDinner.Contracts",
-      "projectPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+      "projectPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
       "packagesPath": "C:\\Users\\Wendel\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+      "outputPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wendel\\AppData\\Roaming\\NuGet\\NuGet.Config"

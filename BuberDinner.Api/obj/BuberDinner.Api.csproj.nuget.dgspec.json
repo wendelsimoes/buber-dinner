@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {}
+    "C:\\Workspaces\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {
+    "C:\\Workspaces\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+        "projectUniqueName": "C:\\Workspaces\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
         "projectName": "BuberDinner.Api",
-        "projectPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+        "projectPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
         "packagesPath": "C:\\Users\\Wendel\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Api\\obj\\",
+        "outputPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wendel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,14 +26,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Workspace\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "C:\\Workspaces\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
               },
-              "C:\\Workspace\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
-                "projectPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
+              "C:\\Workspaces\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+                "projectPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
               },
-              "C:\\Workspace\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
-                "projectPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
+              "C:\\Workspaces\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+                "projectPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
               }
             }
           }
@@ -53,6 +53,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "Mapster.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.19, )"
@@ -85,14 +93,14 @@
         }
       }
     },
-    "C:\\Workspace\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+    "C:\\Workspaces\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectUniqueName": "C:\\Workspaces\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "projectName": "BuberDinner.Application",
-        "projectPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "packagesPath": "C:\\Users\\Wendel\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Application\\obj\\",
+        "outputPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wendel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -107,8 +115,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Workspace\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
-                "projectPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+              "C:\\Workspaces\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+                "projectPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
               }
             }
           }
@@ -161,14 +169,14 @@
         }
       }
     },
-    "C:\\Workspace\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+    "C:\\Workspaces\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectUniqueName": "C:\\Workspaces\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "projectName": "BuberDinner.Contracts",
-        "projectPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "packagesPath": "C:\\Users\\Wendel\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+        "outputPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wendel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -219,14 +227,14 @@
         }
       }
     },
-    "C:\\Workspace\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+    "C:\\Workspaces\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectUniqueName": "C:\\Workspaces\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "projectName": "BuberDinner.Domain",
-        "projectPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "packagesPath": "C:\\Users\\Wendel\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Domain\\obj\\",
+        "outputPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wendel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -283,14 +291,14 @@
         }
       }
     },
-    "C:\\Workspace\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+    "C:\\Workspaces\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Workspaces\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
         "projectName": "BuberDinner.Infrastructure",
-        "projectPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "projectPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Wendel\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
+        "outputPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wendel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -305,8 +313,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Workspace\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "C:\\Workspace\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "C:\\Workspaces\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
               }
             }
           }

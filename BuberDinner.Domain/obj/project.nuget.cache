@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fo0fVJxvMFY=",
+  "dgSpecHash": "AypHUCEk8t4=",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+  "projectFilePath": "C:\\Workspaces\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wendel\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
   ],
